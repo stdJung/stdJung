@@ -1,5 +1,9 @@
-### Hi there 👋
+# Repository of a college student learning open source (SW)
 
+### Hi there 👋
+# I'm std(student)-Jung, trying to improve my software skills.
+
+# If you are interested in me or want to help me, please contact me. 
 <!--
 **stdJung/stdJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
